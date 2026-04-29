@@ -27,3 +27,4 @@ struct ContentView: View {
 // тепер ми написали код для гілки add-note
 // тут зʼявляється код для ноут-ліст і новий файл в дереві
 // and final branch + else one file
+// пробуєм юзать форк
