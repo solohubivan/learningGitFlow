@@ -22,3 +22,6 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+// це головна гілка проекту
+// тепер ми написали код для гілки add-note
